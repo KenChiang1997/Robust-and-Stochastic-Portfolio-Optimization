@@ -1,4 +1,4 @@
 # Robust-and-Stochastic-Portfolio-Optimization
 NTHU 2021 Fall Semester
 
--- Upload Weekly 
+-- Will Upload Course Programming Exercise Weekly 
