@@ -1,6 +1,6 @@
 # Robust-and-Stochastic-Portfolio-Optimization
 
-NTHU 2021 Fall Semester
+NTHU 2021 Fall
 
 Instructor : Chung-Han Hsieh
 
