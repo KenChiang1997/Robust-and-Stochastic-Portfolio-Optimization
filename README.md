@@ -4,7 +4,7 @@ NTHU 2021 Fall
 
 Instructor : Chung-Han Hsieh
 
-Course Inforamtion : https://sites.google.com/a/wisc.edu/chhsieh/home/teaching/robust-and-stochastic-optimization?authuser=0
+Course Inforamtion : https://sites.google.com/a/wisc.edu/chhsieh/home/teaching/robust-and-stochastic-portfolio-optimization?authuser=0
 
 
 -- Will Upload Course Programming Exercise Weekly 
