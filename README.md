@@ -7,7 +7,7 @@ Instructor : Chung-Han Hsieh
 Course Inforamtion : https://sites.google.com/a/wisc.edu/chhsieh/home/teaching/robust-and-stochastic-portfolio-optimization?authuser=0
 
 
--- Will Upload Course Programming Exercise Weekly 
+--> Will Upload Course Programming Exercise Weekly 
 
 <img width="527" alt="截圖 2021-11-14 下午1 44 44" src="https://user-images.githubusercontent.com/80143995/141669237-218fc78a-36e7-4820-80e0-99e4a0560839.png">
 
