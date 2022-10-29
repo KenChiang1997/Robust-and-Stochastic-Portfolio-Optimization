@@ -36,29 +36,31 @@ Part 1: Review: Convex Optimization
 
 Part 2: Classical Portfolio Optimization and Extensions
 
-Portfolio Selection Problem
+  - Portfolio Selection Problem
 
-Optimal Portfolio Growth Problem
+  - Optimal Portfolio Growth Problem
 
-Various Portfolio Risk Constraints
+  - Various Portfolio Risk Constraints
 
 Part 3: Robust Parameter Estimation
 
-Forecasting Expected Return and Risk
+  - Forecasting Expected Return and Risk
 
-Robust Estimation
+  - Robust Estimation
 
-The Black-Litterman Model
+  - The Black-Litterman Model
 
 Part 4: Robust and Stochastic Portfolio Optimization
 
-Robust Portfolio Allocation
+  - Robust Portfolio Allocation
 
-Portfolio Selection and Rebalancing As a Stochastic Control Problem
+  - Portfolio Selection and Rebalancing As a Stochastic Control Problem
 
-Special Topic: Stochastic Drawdown Risks
+Part5: Special Topis
 
-Special Topic: Chance Constrained Optimization
+  - Special Topic: Stochastic Drawdown Risks
 
-Special Topic: Distributional Robust Optimization
+  - Special Topic: Chance Constrained Optimization
+
+  - Special Topic: Distributional Robust Optimization
 
