@@ -26,13 +26,13 @@ Assignment 07 (On Coerciveness and Coherent Risks), Due 01/06 (Thursday)
 
 Part 1: Review: Convex Optimization
 
-Convex Sets
+  - Convex Sets
 
-Convex Functions
+  - Convex Functions
 
-Convex Optimization Problems
+  - Convex Optimization Problems
 
-Optimization Under Uncertainty
+  - Optimization Under Uncertainty
 
 Part 2: Classical Portfolio Optimization and Extensions
 
