@@ -20,7 +20,7 @@ Assignment 05 (Robust and Stochastic Portfolio Optimization)
 
 Assignment 06 (Black-Litterman and Factor Models) 
 
-Assignment 07 (On Coerciveness and Coherent Risks), Due 01/06 (Thursday)
+Assignment 07 (On Coerciveness and Coherent Risks)
 
 # Course Syllabus
 
