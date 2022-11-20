@@ -4,7 +4,7 @@ National Tsing Hua Univeristy 2021 Fall
 
 Instructor : Professor Chung-Han,Hsieh
 
-- One of the most amazing course that I have taken in my life so far.
+- One of the most amazing course that I have taken in my life.
 
 Course Inforamtion : https://sites.google.com/a/wisc.edu/chhsieh/home/teaching/robust-and-stochastic-portfolio-optimization?authuser=0
 
