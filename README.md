@@ -66,3 +66,12 @@ Part5: Special Topis
 
   - Special Topic: Distributional Robust Optimization
 
+# Example Programming HW
+
+![Screen Shot 2023-01-20 at 3 44 32 PM](https://user-images.githubusercontent.com/80143995/213643350-a1b6f7e3-74dc-46d8-881c-38d7d6ae2861.png)
+
+![Screen Shot 2023-01-20 at 3 44 54 PM](https://user-images.githubusercontent.com/80143995/213643370-10ef3ebe-508c-48f5-bb3e-dca658ea70ea.png)
+
+![Screen Shot 2023-01-20 at 3 45 14 PM](https://user-images.githubusercontent.com/80143995/213643380-5a3defe1-232d-4dba-a2db-881a463d869f.png)
+
+
